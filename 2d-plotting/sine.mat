@@ -1,0 +1,5 @@
+% This code generates a sine wave plot.
+
+x = linspace(0,2*pi);
+y = sin(x);
+plot(x,y)

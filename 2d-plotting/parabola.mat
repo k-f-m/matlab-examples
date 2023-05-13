@@ -1,0 +1,15 @@
+% This code plots a parabola
+
+% Define the x values
+x = -10:0.1:10;
+
+% Calculate the y values
+y = x.^2;
+
+% Plot the parabola
+plot(x,y);
+
+% Add labels to the plot
+xlabel('x');
+ylabel('y');
+title('Parabola');
