@@ -1,10 +1,9 @@
 # MATLAB Examples
 
-
 ## 2D Plotting
-- Sine wave
 - Parabola
+- Sine wave
 
 ## 3D Plotting
-- Paraboloid
 - 3D space curve
+- Paraboloid
