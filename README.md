@@ -7,3 +7,4 @@
 
 ## 3D Plotting
 - Paraboloid
+- 3D space curve
