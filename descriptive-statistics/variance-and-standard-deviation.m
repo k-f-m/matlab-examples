@@ -1,4 +1,4 @@
-% Calculate and plot statistics for a 24-by-3 matrix
+% Calculate variance and standard deviation and draw a box plot for a 24-by-3 matrix
 % The data represents how many vehicles passed by traffic counting stations on three streets.
 
 % Load the data
