@@ -10,4 +10,5 @@
 
 ## Descriptive Statistics
 - Central tendency
+- Sort numeric data
 - Variance and standard deviation
