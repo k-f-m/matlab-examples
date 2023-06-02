@@ -8,6 +8,9 @@
 - 3D space curve
 - Paraboloid
 
+## Vectors and Matrics
+- Concatenation
+
 ## Descriptive Statistics
 - Central tendency
 - Sort numeric data
