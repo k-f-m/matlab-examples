@@ -10,6 +10,7 @@
 
 ## Vectors and Matrics
 - Concatenation
+- Vectorized operations
 
 ## Descriptive Statistics
 - Central tendency
