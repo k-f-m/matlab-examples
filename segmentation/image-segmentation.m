@@ -8,4 +8,4 @@ labled_image = imsegkmeans(I,3);
 
 % Overlay the labeled image on top of the original image and display the result
 overlaid_image = labeloverlay(I,L);
-imshow(B)
+imshow(overlaid_image)
