@@ -8,14 +8,17 @@
 - 3D space curve
 - Paraboloid
 
-## Vectors and Matrics
-- Concatenation
-- Vectorized operations
-
 ## Descriptive Statistics
 - Central tendency
 - Sort numeric data
 - Variance and standard deviation
+
+## Vectors and Matrics
+- Concatenation
+- Vectorized operations
+
+## Segmentation
+- Image segmentation
 
 ## Psychtoolbox
 - Draw rectangle
