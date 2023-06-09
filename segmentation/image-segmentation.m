@@ -4,8 +4,8 @@
 image = imread('pout.tif');
 
 % Segment the image using k-means clustering with three clusters
-labled_image = imsegkmeans(I,3);
+labled_image = imsegkmeans(image,3);
 
 % Overlay the labeled image on top of the original image and display the result
-overlaid_image = labeloverlay(I,L);
+overlaid_image = labeloverlay(image,labled_image);
 imshow(overlaid_image)
