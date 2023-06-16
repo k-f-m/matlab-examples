@@ -22,3 +22,4 @@
 
 ## Psychtoolbox
 - Draw rectangle
+- Single dot
