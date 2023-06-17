@@ -21,5 +21,6 @@
 - Image segmentation
 
 ## Psychtoolbox
+- Antialiasing
 - Draw rectangle
 - Single dot
