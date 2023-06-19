@@ -21,6 +21,7 @@
 - Image segmentation
 
 ## Psychtoolbox
-- Antialiasing
 - Draw rectangle
 - Single dot
+- Antialiasing
+- Hermann Grid Illusion
