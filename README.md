@@ -25,3 +25,4 @@
 - Single dot
 - Antialiasing
 - Hermann Grid Illusion
+- Screen coordinates

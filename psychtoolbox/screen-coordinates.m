@@ -1,4 +1,4 @@
-% Example code to get mouse position on screen.
+% Example code to get the cursor position on screen.
 
 function ScreenCoordinatesDemo
     % Open a window and draw some text into it
