@@ -26,3 +26,4 @@
 - Antialiasing
 - Hermann Grid Illusion
 - Screen coordinates
+- Fixation cross
