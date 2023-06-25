@@ -21,6 +21,7 @@
 - Image segmentation
 
 ## Psychtoolbox
+- Wait frames
 - Draw rectangle
 - Single dot
 - Antialiasing
