@@ -22,9 +22,10 @@
 
 ## Psychtoolbox
 - Wait frames
-- Draw rectangle
 - Single dot
 - Antialiasing
+- Draw rectangle
+- Overlapping objects
 - Hermann Grid Illusion
 - Screen coordinates
 - Fixation cross
